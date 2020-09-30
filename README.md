@@ -1,3 +1,15 @@
+# MovieDb
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+MovieDb is a simple responsive movie search application using reactJs.
+
+  - Search movies
+  - Get ratings and reviews
+  - Magic
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
