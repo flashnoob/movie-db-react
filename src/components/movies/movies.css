@@ -1,0 +1,51 @@
+.movie {
+  margin: 1rem;
+  position: relative;
+  width: 180px;
+  background-color: rgb(33 25 85 / 65%);
+  -webkit-box-shadow: 7px 6px 5px 6px rgba(72, 72, 72, 0.53);
+  -moz-box-shadow: 7px 6px 5px 6px rgba(194, 194, 194, 0.53);
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+  
+}
+
+.images {
+  max-width: 100%;
+}
+
+
+
+
+.text {
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.ipc-icon {
+  height: 1.4em;
+  width: 2em;
+  margin-right: 0.15em;
+  color: #f5c518;
+}
+
+.brighten div {
+  filter: brightness(100%);
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+  }
+  
+  .brighten div:hover ,  .brighten div:active {
+    filter: brightness(70%);
+
+    filter: brightness(70%);
+  }
+
+  @media only screen and (max-width: 600px) {
+    .movie {
+width: 21rem;
+    }
+  }
